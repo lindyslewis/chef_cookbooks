@@ -1,5 +1,5 @@
 # apache recipe
 
-Installs httpd package
-Uses index.html template.  Sets permissions.
-Enables and starts apache
+- Installs httpd package
+- Uses index.html template.  Sets permissions.
+- Enables and starts apache
