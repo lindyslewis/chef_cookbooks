@@ -1,4 +1,5 @@
-# apache
+# apache recipe
 
-TODO: Enter the cookbook description here.
-
+Installs httpd package
+Uses index.html template.  Sets permissions.
+Enables and starts apache
